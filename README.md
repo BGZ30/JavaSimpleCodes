@@ -6,4 +6,5 @@ Programs added up till now:
 >- Prime numbers.
 >- Palindrome numbers.
 >- Factorial.
+>- Armstrong number.
 	
