@@ -7,4 +7,8 @@ Programs added up till now:
 >- Palindrome numbers.
 >- Factorial.
 >- Armstrong number.
+\
+Sorting Algorithms:
+>- Bubble Sort - Ascending.
+>- Selection Sort - Ascending.
 	
