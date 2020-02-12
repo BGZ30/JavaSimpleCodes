@@ -6,7 +6,7 @@ Basic Programs:
 >- Prime numbers.
 >- Palindrome numbers.
 >- Factorial.
->- Armstrong number.
+>- Armstrong number.\
 <a\>
 Sorting Algorithms:
 >- Bubble Sort - Ascending.
