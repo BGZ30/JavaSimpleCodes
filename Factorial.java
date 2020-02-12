@@ -36,7 +36,7 @@ class findFacto {
 
         while (n != 0) {
             facto *= n;
-            n -= 1;
+            n--;
         }
 
         return facto;
@@ -47,6 +47,5 @@ class findFacto {
             return 1;
         else
             return (n * Rec(n - 1));
-
     }
 }
