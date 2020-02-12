@@ -17,8 +17,10 @@ public class Factorial {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Please enter a positive integer: ");
-        n = s.nextInt();
+        do {
+            System.out.print("Please enter a positive integer: ");
+            n = s.nextInt();
+        } while (n < 0);
 
         // Calculating the factorial without recursion
         facto = findFacto.NoRec(n);
