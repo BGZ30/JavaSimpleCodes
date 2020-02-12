@@ -5,4 +5,5 @@ Programs added up till now:
 >- Fibonacci Seriers.
 >- Checking Prime numbers.
 >- Checking Palindrome numbers.
+>- Factorial.
 	
